@@ -1,0 +1,14 @@
+2
+MATH 6
+1A Differential Calculus
+1B Integral Calculus
+1C Infinite Series, 2D and 3D Vectors, Parametric Equations
+1D Partial Derivatives, Multiple Integrals, Vector Calculus
+2B Linear Algebra
+22 Discrete Math
+CIS 5
+22A Beginning Programming Methodologies in C++
+22B Intermediate Programming Methodologies in C++
+22C Data Abstraction and Structures
+36A Introduction to Computer Programming in Java
+36B Intermediate Problem Solving in Java

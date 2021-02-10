@@ -1,0 +1,114 @@
+Book
+Calculus Early Transcendentals, 8th Edition
+169.45
+James Stewart
+9781337000819
+4 MATH 1A 1B 1C 1D
+Book
+Starting Out With C++ From Control Structures through Objects, 8th Edition
+130.79
+Tony Gaddis
+9780133769395
+2 CIS 22A 22B
+Book
+Data Abstraction and Problem Solving with C++ Walls and Mirrors, 6th Edition
+109.99
+Frank Carrano 
+9780132923729
+1 CIS 22C
+Book
+Elementary Linear Algebra, Applications Version, 12th Edition
+99.99
+Howard Anton
+9781119406723
+1 MATH 2B
+Book
+Discrete Mathematics An Introduction to Mathematical Reasoning, Brief Edition
+87.00
+Sussanna Epp
+9780495826170
+1 MATH 22
+Book
+Introduction to Java Programming Comprehensive Version, 10th Edition
+104.50
+Daniel Liang
+9780133761313
+2 CIS 36A 36B
+Book
+Data Structures and Algorithms in C++ 2nd Edition
+112.59
+Michael Goodrich
+9780470383278
+1 CIS 22C
+Book
+Student Solutions Manual Calculus, 8th Edition
+40.00
+James Stewart
+9780840049490
+4 MATH 1A 1B 1C 1D
+Book
+Discrete Mathematics and Its Applications
+57.59
+Kenneth Rosen
+9781260091991
+1 MATH 22
+Book
+Linear Algebra and Its Applications 5th Edition
+145.49
+David Lay
+9780321982384
+1 MATH 2B
+Book
+Data Structures and Algorithm Analysis in Java 3rd Edition
+173.32
+Mark Weiss
+9780132576277
+1 CIS 22C
+Book
+C++ in One Hour a Day, Sams Teach Yourself
+32.85
+Siddhartha Rao 
+9780789757746
+2 CIS 22A 22B
+Book
+Java: The Complete Reference, Eleventh Edition 11th Edition
+44.08
+Herbert Schildt
+9781260440232
+2 CIS 36A 36B
+Book
+Introduction to Algorithms, 3rd Edition (The MIT Press)
+26.97
+Thomas H. Cormen
+9780262033848
+1 CIS 22C
+Book
+The C++ Programming Language, 4th Edition
+58.96
+Bjarne Stroustrup
+9780321563842
+2 CIS 22A 22B
+Book
+Java Coding Problems: Improve your Java Programming skills by solving real-world coding challenges
+50.00
+Anghel Leonard
+9781789801415
+2 CIS 36A 36B
+Book
+Linear Algebra: Step by Step Illustrated Edition
+48.45
+Kuldeep Singh
+9780199654444
+1 MATH 2B
+Book
+Discrete Mathematics 1st Edition
+122.95
+Gary Chartrand
+9781577667308
+1 MATH 22
+Book
+Calculus 10th Edition
+216.21
+Ron Larson
+9781285057095
+4 MATH 1A 1B 1C 1D

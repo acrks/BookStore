@@ -1,0 +1,34 @@
+Alex Crooks
+alexcrooks2@gmail.com
+wsxwsx0104
+MATH 1A, CIS 22B, CIS 36B
+No
+10.00
+
+Nathan Laureta
+nlaureta@gmail.com
+javaisterrific2000
+MATH 1B, CIS 22C
+No
+15.00
+
+Ellie Tu
+etu@yahoo.com
+imnottakumi
+MATH 1D, CIS 36A
+No
+15.50
+
+Takumi Imanaka
+takumiii@sbcglobal.net
+password123
+MATH 1C, CIS 22B
+No
+123.45
+
+Jennifer Parrish
+parrishjennifer@fhda.edu
+javajives
+CIS 22A, CIS 22B, CIS 36A, CIS 36B
+Yes
+0.00
